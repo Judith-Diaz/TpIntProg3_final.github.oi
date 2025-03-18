@@ -1233,3 +1233,17 @@ C:\Users\judhit\Desktop\TPINT_GRUPO6_FINAL\TPINT_GRUPO_6_PR3(V1)\obj\Debug\Vista
 C:\Users\judhit\Desktop\TPINT_GRUPO6_FINAL\TPINT_GRUPO_6_PR3(V1)\obj\Debug\Vistas.csproj.Up2Date
 C:\Users\judhit\Desktop\TPINT_GRUPO6_FINAL\TPINT_GRUPO_6_PR3(V1)\obj\Debug\TPINT_GRUPO_6_PR3(V1).dll
 C:\Users\judhit\Desktop\TPINT_GRUPO6_FINAL\TPINT_GRUPO_6_PR3(V1)\obj\Debug\TPINT_GRUPO_6_PR3(V1).pdb
+C:\Users\judhit\Desktop\TPfinalPrg3\TpIntProg3_final.github.oi\TPINT_GRUPO_6_PR3(V1)\bin\TPINT_GRUPO_6_PR3(V1).dll.config
+C:\Users\judhit\Desktop\TPfinalPrg3\TpIntProg3_final.github.oi\TPINT_GRUPO_6_PR3(V1)\bin\TPINT_GRUPO_6_PR3(V1).dll
+C:\Users\judhit\Desktop\TPfinalPrg3\TpIntProg3_final.github.oi\TPINT_GRUPO_6_PR3(V1)\bin\TPINT_GRUPO_6_PR3(V1).pdb
+C:\Users\judhit\Desktop\TPfinalPrg3\TpIntProg3_final.github.oi\TPINT_GRUPO_6_PR3(V1)\bin\DAO.dll
+C:\Users\judhit\Desktop\TPfinalPrg3\TpIntProg3_final.github.oi\TPINT_GRUPO_6_PR3(V1)\bin\Entidades.dll
+C:\Users\judhit\Desktop\TPfinalPrg3\TpIntProg3_final.github.oi\TPINT_GRUPO_6_PR3(V1)\bin\Negocio.dll
+C:\Users\judhit\Desktop\TPfinalPrg3\TpIntProg3_final.github.oi\TPINT_GRUPO_6_PR3(V1)\bin\DAO.pdb
+C:\Users\judhit\Desktop\TPfinalPrg3\TpIntProg3_final.github.oi\TPINT_GRUPO_6_PR3(V1)\bin\Entidades.pdb
+C:\Users\judhit\Desktop\TPfinalPrg3\TpIntProg3_final.github.oi\TPINT_GRUPO_6_PR3(V1)\bin\Negocio.pdb
+C:\Users\judhit\Desktop\TPfinalPrg3\TpIntProg3_final.github.oi\TPINT_GRUPO_6_PR3(V1)\obj\Debug\Vistas.csproj.AssemblyReference.cache
+C:\Users\judhit\Desktop\TPfinalPrg3\TpIntProg3_final.github.oi\TPINT_GRUPO_6_PR3(V1)\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+C:\Users\judhit\Desktop\TPfinalPrg3\TpIntProg3_final.github.oi\TPINT_GRUPO_6_PR3(V1)\obj\Debug\Vistas.csproj.Up2Date
+C:\Users\judhit\Desktop\TPfinalPrg3\TpIntProg3_final.github.oi\TPINT_GRUPO_6_PR3(V1)\obj\Debug\TPINT_GRUPO_6_PR3(V1).dll
+C:\Users\judhit\Desktop\TPfinalPrg3\TpIntProg3_final.github.oi\TPINT_GRUPO_6_PR3(V1)\obj\Debug\TPINT_GRUPO_6_PR3(V1).pdb

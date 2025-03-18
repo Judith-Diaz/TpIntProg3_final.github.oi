@@ -376,3 +376,12 @@ C:\Users\LENOVO\Desktop\vesiones tp final\TPINT_DANI\TPINT_GRUPO6_V27\DAO\obj\De
 C:\Users\LENOVO\Desktop\vesiones tp final\TPINT_DANI\TPINT_GRUPO6_V27\DAO\obj\Debug\DAO.csproj.Up2Date
 C:\Users\LENOVO\Desktop\vesiones tp final\TPINT_DANI\TPINT_GRUPO6_V27\DAO\obj\Debug\DAO.dll
 C:\Users\LENOVO\Desktop\vesiones tp final\TPINT_DANI\TPINT_GRUPO6_V27\DAO\obj\Debug\DAO.pdb
+C:\Users\judhit\Desktop\TPfinalPrg3\TpIntProg3_final.github.oi\DAO\bin\Debug\DAO.dll
+C:\Users\judhit\Desktop\TPfinalPrg3\TpIntProg3_final.github.oi\DAO\bin\Debug\DAO.pdb
+C:\Users\judhit\Desktop\TPfinalPrg3\TpIntProg3_final.github.oi\DAO\bin\Debug\Entidades.dll
+C:\Users\judhit\Desktop\TPfinalPrg3\TpIntProg3_final.github.oi\DAO\bin\Debug\Entidades.pdb
+C:\Users\judhit\Desktop\TPfinalPrg3\TpIntProg3_final.github.oi\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+C:\Users\judhit\Desktop\TPfinalPrg3\TpIntProg3_final.github.oi\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\judhit\Desktop\TPfinalPrg3\TpIntProg3_final.github.oi\DAO\obj\Debug\DAO.csproj.Up2Date
+C:\Users\judhit\Desktop\TPfinalPrg3\TpIntProg3_final.github.oi\DAO\obj\Debug\DAO.dll
+C:\Users\judhit\Desktop\TPfinalPrg3\TpIntProg3_final.github.oi\DAO\obj\Debug\DAO.pdb

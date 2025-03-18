@@ -460,3 +460,14 @@ C:\Users\LENOVO\Desktop\vesiones tp final\TPINT_DANI\TPINT_GRUPO6_V27\Negocio\ob
 C:\Users\LENOVO\Desktop\vesiones tp final\TPINT_DANI\TPINT_GRUPO6_V27\Negocio\obj\Debug\Negocio.csproj.Up2Date
 C:\Users\LENOVO\Desktop\vesiones tp final\TPINT_DANI\TPINT_GRUPO6_V27\Negocio\obj\Debug\Negocio.dll
 C:\Users\LENOVO\Desktop\vesiones tp final\TPINT_DANI\TPINT_GRUPO6_V27\Negocio\obj\Debug\Negocio.pdb
+C:\Users\judhit\Desktop\TPfinalPrg3\TpIntProg3_final.github.oi\Negocio\bin\Debug\Negocio.dll
+C:\Users\judhit\Desktop\TPfinalPrg3\TpIntProg3_final.github.oi\Negocio\bin\Debug\Negocio.pdb
+C:\Users\judhit\Desktop\TPfinalPrg3\TpIntProg3_final.github.oi\Negocio\bin\Debug\DAO.dll
+C:\Users\judhit\Desktop\TPfinalPrg3\TpIntProg3_final.github.oi\Negocio\bin\Debug\Entidades.dll
+C:\Users\judhit\Desktop\TPfinalPrg3\TpIntProg3_final.github.oi\Negocio\bin\Debug\DAO.pdb
+C:\Users\judhit\Desktop\TPfinalPrg3\TpIntProg3_final.github.oi\Negocio\bin\Debug\Entidades.pdb
+C:\Users\judhit\Desktop\TPfinalPrg3\TpIntProg3_final.github.oi\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\judhit\Desktop\TPfinalPrg3\TpIntProg3_final.github.oi\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\judhit\Desktop\TPfinalPrg3\TpIntProg3_final.github.oi\Negocio\obj\Debug\Negocio.csproj.Up2Date
+C:\Users\judhit\Desktop\TPfinalPrg3\TpIntProg3_final.github.oi\Negocio\obj\Debug\Negocio.dll
+C:\Users\judhit\Desktop\TPfinalPrg3\TpIntProg3_final.github.oi\Negocio\obj\Debug\Negocio.pdb
